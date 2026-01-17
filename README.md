@@ -1,2 +1,1 @@
-# Digital-Twin
-Digital Twin Project
+# lab-agile-planning
